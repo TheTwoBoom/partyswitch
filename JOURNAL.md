@@ -5,7 +5,7 @@ description: "Ethernet Switch with USB-C instead of RJ-45 ports"
 created_at: "2025-06-19"
 ---
 
-# June 26th: Wrote 1st revision of BOM (excluding power)
+# June 20th: Wrote 1st revision of BOM (excluding power)
 
 I first looked for a fitting switch chip that supported 2.5Gbit and was in stock.  
 After looking for a little bit I found this one
