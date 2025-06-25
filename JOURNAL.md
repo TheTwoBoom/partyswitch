@@ -52,4 +52,23 @@ I also added an 5.1kΩ Resistor to trigger 5V power via USB-C
 
 **Total time spent: 2h**
 
+# June 25th: Began working on the schematic (and changed some parts after reading the datasheets in detail)
+
+After I placed down all the parts, the pins were simply to many (and the BOM to complicated)
+So I changed the USB-Ethernet Chip to a simpler 100mbit Version
+![usb-to-ethernet](https://github.com/user-attachments/assets/a1d59963-62f7-4c94-86c1-6562d4cb76f3)
+
+Because of requirements of the buck converter, I added following parts:
+![330uF Capacitors](https://github.com/user-attachments/assets/8f7fed82-81fe-4bf3-be61-30e446c29dcc)
+![470uF Capacitors](https://github.com/user-attachments/assets/1eeba504-b877-4952-8740-bc509cdcd969)
+![10kΩ Resistor](https://github.com/user-attachments/assets/bf0f243c-8a61-4d4b-9a3b-945eb5c5ee8f)
+![47uH Inductors](https://github.com/user-attachments/assets/de312c32-829c-4f49-9abe-cf63974d80cd)
+
+I also changed the schottky diode to this one:
+![schottky-diodes](https://github.com/user-attachments/assets/58c2e152-c04c-449d-b727-d233aa8b8265)
+
+Here's a overview of the power sheet of my schematic
+![grafik](https://github.com/user-attachments/assets/ad460154-4bb5-4093-8473-42ef6c719ed8)
+
+**Total time spent: 2h**
 
