@@ -29,3 +29,27 @@ To connect the USB-Devices I added 3 USB-C Ports and USB to Ethernet Converters
 
 
 **Total time spent: 4h**
+
+# June 22th: Wrote 1st revision of BOM (power management)
+
+I discovered that the USB-C Connectors I previously chose were kind of weird, so I chose this one instead
+![usb-port](https://github.com/user-attachments/assets/675f4ecf-fb14-4066-9231-04981d3cc018)
+
+Because most components needed 3.3V, I added a buck converter to convert 5V to 3.3V
+![buck-converter](https://github.com/user-attachments/assets/75f1b1a1-1452-4f11-9ea2-68c934edbdbf)
+
+To protect my design from power surges, I "copied" the methods from this jam for a USB-Hub and added some methods from ChatGPT:
+https://jams.hackclub.com/batch/usb-hub/part-1
+![schottky-diodes](https://github.com/user-attachments/assets/509b0395-f654-4b7b-800e-1d2f40fdd11d)
+![1nF (2kV) Capacitors](https://github.com/user-attachments/assets/084b014e-c619-43e8-ba0b-23fdacf3d1ae)
+![100nF Capacitors](https://github.com/user-attachments/assets/1fdbca7d-6ae8-4c22-b071-6aa572e41520)
+![1uF Capacitors](https://github.com/user-attachments/assets/27f498fb-cdcb-4162-8dd7-34512a45f758)
+![10uF Capacitors](https://github.com/user-attachments/assets/7bc1a24b-63b2-4b27-963c-2b4e49479863)
+![1MΩ Resistors](https://github.com/user-attachments/assets/558dc875-2cc7-4d4b-9351-10bd8a96f93d)
+
+I also added an 5.1kΩ Resistor to trigger 5V power via USB-C
+![5.1kΩ Resistor](https://github.com/user-attachments/assets/0501d8ba-e0fa-4e3a-b332-01296476f82c)
+
+**Total time spent: 2h**
+
+
