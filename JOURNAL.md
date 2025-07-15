@@ -72,3 +72,12 @@ Here's a overview of the power sheet of my schematic
 
 **Total time spent: 2h**
 
+# July 15th: Added USB parts and USB-to-Ethernet converter into the design
+Now that I've got all my parts in a BOM, I read the datasheet of the USB-to-Ethernet chip and kind of adapted the reference design to my own while keeping my schematic clean.
+
+Power Sheet:
+![](https://github.com/user-attachments/assets/5e3855b4-0c37-4c33-8318-785c139bb883)
+Ethernet Sheet:
+![](https://github.com/user-attachments/assets/92b8e4a4-d27b-4468-83a1-f5da36d886cd)
+
+**Total time spent: 6h**
