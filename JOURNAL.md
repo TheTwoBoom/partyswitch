@@ -76,8 +76,11 @@ Here's a overview of the power sheet of my schematic
 Now that I've got all my parts in a BOM, I read the datasheet of the USB-to-Ethernet chip and kind of adapted the reference design to my own while keeping my schematic clean.
 
 Power Sheet:
+
 ![](https://github.com/user-attachments/assets/5e3855b4-0c37-4c33-8318-785c139bb883)
+
 Ethernet Sheet:
+
 ![](https://github.com/user-attachments/assets/92b8e4a4-d27b-4468-83a1-f5da36d886cd)
 
 **Total time spent: 6h**
@@ -85,10 +88,13 @@ Ethernet Sheet:
 # July 17th: Cleaned up the power sheet and added Ethernet Magnetics
 
 I kinda reworked the DC-DC circuit on the power sheet and then added the ethernet magnetics with 2 pairs per connection (Fast Ethernet)
+
 Power Sheet:
+
 ![](https://github.com/user-attachments/assets/c79cb41f-d59e-4988-814a-3538a380b7eb)
 
 Ethernet Magnetics:
+
 ![](https://github.com/user-attachments/assets/2ad4eed6-876d-4042-9ba1-b39561e8d7e5)
 
 
