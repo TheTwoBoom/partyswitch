@@ -81,3 +81,15 @@ Ethernet Sheet:
 ![](https://github.com/user-attachments/assets/92b8e4a4-d27b-4468-83a1-f5da36d886cd)
 
 **Total time spent: 6h**
+
+# July 17th: Cleaned up the power sheet and added Ethernet Magnetics
+
+I kinda reworked the DC-DC circuit on the power sheet and then added the ethernet magnetics with 2 pairs per connection (Fast Ethernet)
+Power Sheet:
+![](https://github.com/user-attachments/assets/c79cb41f-d59e-4988-814a-3538a380b7eb)
+
+Ethernet Magnetics:
+![](https://github.com/user-attachments/assets/2ad4eed6-876d-4042-9ba1-b39561e8d7e5)
+
+
+**Total time spent: 2h**
