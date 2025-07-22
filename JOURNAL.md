@@ -97,5 +97,12 @@ Ethernet Magnetics:
 
 ![](https://github.com/user-attachments/assets/2ad4eed6-876d-4042-9ba1-b39561e8d7e5)
 
+**Total time spent: 2h**
+
+# July 21th: Connected Eternet Magnetics with Switch Chip and RJ45 Ports
+
+I have now connected the remaining ports to Magnetics and RJ45
+
+![](https://github.com/user-attachments/assets/0f891414-1204-423a-b11b-b63429f6200d)
 
 **Total time spent: 2h**
